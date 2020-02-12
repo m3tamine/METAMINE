@@ -40,5 +40,5 @@ Python 3 or later is required alongwith the following libraries:
 # AUTHORS
 - **Aditya Ramesh** - [aditya-dk7](https://github.com/aditya-dk7)
 - **Sanchit Bajaj**
-- **Riten Bhagra**
+- **Riten Bhagra** - [thebarcelonaguy](https://github.com/thebarcelonaguy)
 - **Aditia Sharma**
