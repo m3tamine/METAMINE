@@ -1,0 +1,7 @@
+PyPDF2==1.26.0
+mutagen==1.42.0
+pathlib2==2.3.5
+tqdm==4.37.0
+python-docx==0.8.10
+python-pptx==0.6.18
+openpyxl==3.0.0
