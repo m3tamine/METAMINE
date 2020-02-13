@@ -1,4 +1,5 @@
 # METAMINE
+<img src="images/METAMINE.png" width="40%" height="50%" align="left">
 
 Metamine is a full-featured command-line application for reading and removing meta information in a wide variety of files, without   compromising the data in file.
 
@@ -13,7 +14,7 @@ For the time, It supports the following file types:
 * .pptx
 * .xlsx
 
-Further more it supports batch-processing where you can put all your files in a folder and remove metadata at once.
+<marquee>Further more it supports batch-processing where you can put all your files in a folder and remove metadata at once.</marquee>
 
 # RUNNING
 
