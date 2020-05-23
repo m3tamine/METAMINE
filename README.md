@@ -40,6 +40,6 @@ Python 3 or later is required alongwith the following libraries:
 
 # AUTHORS
 - **Aditya Ramesh** - [aditya-dk7](https://github.com/aditya-dk7)
-- **Sanchit Bajaj**
+- **Sanchit Bajaj** - [bajajsanchit](https://github.com/bajajsanchit)
 - **Riten Bhagra** - [thebarcelonaguy](https://github.com/thebarcelonaguy)
 - **Aditia Sharma** -[aditia-sharma](https://github.com/aditia-sharma)
