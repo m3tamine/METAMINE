@@ -1,4 +1,4 @@
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 mutagen==1.42.0
 pathlib2==2.3.5
 tqdm==4.37.0
